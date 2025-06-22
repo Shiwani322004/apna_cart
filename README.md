@@ -1,4 +1,5 @@
-# 🚀 Getting Started with My React App
+# 🚀 Say hello to React! 
+Kickstarting my journey with React — the library that makes building UIs a breeze!
 
 Hi! 👋 This project was created using **Create React App**, a great tool to quickly set up a modern React project with zero configuration.
 
